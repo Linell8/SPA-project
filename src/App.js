@@ -24,7 +24,7 @@ function NoMatch() {
 function App() {
   return (
     <React.Fragment>
-      <BrowserRouter>
+      <BrowserRouter basename="/SPA-project">
         <Header/>
           <main className="container content">
             <Routes>
