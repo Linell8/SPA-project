@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.content {
+  min-height: calc(100vh - 70px - 64px );
+}
+
+li {
+  margin-left: 20px;
+}
+
+.card-title {
+  font-size: 24px;
+}
